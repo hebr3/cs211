@@ -1,0 +1,15 @@
+add Mayssaa Sarkis 885-565-4567
+add Julia Adams 456-343-2087
+display
+update 456-343-2087 456-189-6554
+delete Amy James
+add Michel Durcrest 215-456-2231
+add Bryan James 215-456-2231
+delete 215-456-2231
+add Dennis Lefleurt 334-543-8769
+search Julia
+search Garcia
+search 543-456-2222
+sort
+display
+save

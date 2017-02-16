@@ -1,0 +1,3 @@
+Insert Hello 4
+Delete 5
+Print

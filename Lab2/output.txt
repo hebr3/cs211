@@ -1,0 +1,14 @@
+
+Please enter a key to search for in data3.txt: 5
+6
+12 <--
+87
+100
+28
+35
+66
+77
+29
+
+The key was found
+
