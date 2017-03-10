@@ -1,0 +1,471 @@
+Adding Joe Garcia to the passenger list.
+Passenger DF1298 successfully added.
+-----------------------------------------------------------
+Adding Amelia Perez to the passenger list.
+Passenger FG7654 successfully added.
+-----------------------------------------------------------
+Adding Bob Haynes to the passenger list.
+Passenger AC9872 successfully added.
+-----------------------------------------------------------
+Adding Tim Ducrest to the passenger list.
+Passenger AW2345 successfully added.
+-----------------------------------------------------------
+Adding Kevin Garcia to the passenger list.
+Passenger NN7655 successfully added.
+-----------------------------------------------------------
+Adding Suzy Walter to the passenger list.
+Passenger FP3067 successfully added.
+-----------------------------------------------------------
+Adding Fang Yi to the passenger list.
+Passenger FP0098 successfully added.
+-----------------------------------------------------------
+Adding Amelia Perez to the passenger list.
+Duplicate passenger ID entered for Amelia Perez
+This passenger was not added.
+-----------------------------------------------------------
+Adding Robert James to the passenger list.
+Passenger BH7676 successfully added.
+-----------------------------------------------------------
+Adding Mary Palmer to the passenger list.
+Passenger BH5454 successfully added.
+-----------------------------------------------------------
+Adding Paul Didier to the passenger list.
+Passenger HG7656 successfully added.
+-----------------------------------------------------------
+Adding Mireille Sage to the passenger list.
+Passenger DF3456 successfully added.
+-----------------------------------------------------------
+Adding Tim Ducrest to the passenger list.
+Duplicate passenger ID entered for Tim Ducrest
+This passenger was not added.
+-----------------------------------------------------------
+Adding Julia Pompano to the passenger list.
+Passenger DF6987 successfully added.
+-----------------------------------------------------------
+Adding Rose Hunter to the passenger list.
+Passenger JH7321 successfully added.
+-----------------------------------------------------------
+Adding Joe Garcia to the passenger list.
+Duplicate passenger ID entered for Joe Garcia
+This passenger was not added.
+-----------------------------------------------------------
+Adding Suzy Walter to the passenger list.
+Passenger AD7654 successfully added.
+-----------------------------------------------------------
+Adding Michel Etheredge to the passenger list.
+Passenger GH6543 successfully added.
+-----------------------------------------------------------
+Printing the current list of passengers
+
+There are currently 15 passengers in the list
+
+First name: Joe
+Last name:  Garcia
+Age:        33
+Gender:     M
+ID:         DF1298
+Assistance: none
+Meal type:  vegetarian
+
+First name: Amelia
+Last name:  Perez
+Age:        28
+Gender:     F
+ID:         FG7654
+Assistance: bassinet
+Meal type:  chicken
+
+First name: Bob
+Last name:  Haynes
+Age:        59
+Gender:     M
+ID:         AC9872
+Assistance: wheelchair
+Meal type:  vegetarian
+
+First name: Tim
+Last name:  Ducrest
+Age:        43
+Gender:     M
+ID:         AW2345
+Assistance: none
+Meal type:  none
+
+First name: Kevin
+Last name:  Garcia
+Age:        6
+Gender:     M
+ID:         NN7655
+Assistance: child
+Meal type:  none
+
+First name: Suzy
+Last name:  Walter
+Age:        65
+Gender:     F
+ID:         FP3067
+Assistance: wheelchair
+Meal type:  none
+
+First name: Fang
+Last name:  Yi
+Age:        32
+Gender:     F
+ID:         FP0098
+Assistance: none
+Meal type:  chicken
+
+First name: Robert
+Last name:  James
+Age:        39
+Gender:     M
+ID:         BH7676
+Assistance: none
+Meal type:  none
+
+First name: Mary
+Last name:  Palmer
+Age:        35
+Gender:     F
+ID:         BH5454
+Assistance: bassinet
+Meal type:  none
+
+First name: Paul
+Last name:  Didier
+Age:        72
+Gender:     M
+ID:         HG7656
+Assistance: wheelchair
+Meal type:  fish
+
+First name: Mireille
+Last name:  Sage
+Age:        7
+Gender:     F
+ID:         DF3456
+Assistance: child
+Meal type:  chicken
+
+First name: Julia
+Last name:  Pompano
+Age:        77
+Gender:     F
+ID:         DF6987
+Assistance: wheelchair
+Meal type:  vegetarian
+
+First name: Rose
+Last name:  Hunter
+Age:        41
+Gender:     F
+ID:         JH7321
+Assistance: none
+Meal type:  chicken
+
+First name: Suzy
+Last name:  Walter
+Age:        22
+Gender:     F
+ID:         AD7654
+Assistance: none
+Meal type:  fish
+
+First name: Michel
+Last name:  Etheredge
+Age:        72
+Gender:     M
+ID:         GH6543
+Assistance: wheelchair
+Meal type:  none
+
+-----------------------------------------------------------
+Adding flight leaving SAN on 04/03/2016 at 8:30
+Flight 100 from SAN to LAX was successfully added.
+-----------------------------------------------------------
+Adding flight leaving SAN on 04/03/2016 at 9:30
+Flight 110 from SAN to LAX was successfully added.
+-----------------------------------------------------------
+Adding flight leaving SAN on 04/03/2016 at 11:00
+Flight 120 from SAN to LAX was successfully added.
+-----------------------------------------------------------
+Adding flight leaving SAN on 05/03/2016 at 8:30
+Flight 130 from SAN to MDW was successfully added.
+-----------------------------------------------------------
+Adding flight leaving SAN on 05/03/2016 at 8:30
+Flight 140 from SAN to LAX was successfully added.
+-----------------------------------------------------------
+Printing the current list of flights
+
+There are currently 5 flights in the list
+
+Flight 100 departs SAN at 8:30 on 04/03/2016
+Flight arrives at LAX after 0.35 hours
+Currently 0 of 10 seats are taken
+
+Flight 110 departs SAN at 9:30 on 04/03/2016
+Flight arrives at LAX after 0.38 hours
+Currently 0 of 15 seats are taken
+
+Flight 120 departs SAN at 11:00 on 04/03/2016
+Flight arrives at LAX after 0.3 hours
+Currently 0 of 50 seats are taken
+
+Flight 130 departs SAN at 8:30 on 05/03/2016
+Flight arrives at MDW after 4.05 hours
+Currently 0 of 50 seats are taken
+
+Flight 140 departs SAN at 8:30 on 05/03/2016
+Flight arrives at LAX after 0.35 hours
+Currently 0 of 10 seats are taken
+
+-----------------------------------------------------------
+Searching flight list for flights
+Departing SAN for LAX on 04/03/2016
+
+Flight 100 departs SAN at 8:30 on 04/03/2016
+Flight arrives at LAX after 0.35 hours
+Currently 0 of 10 seats are taken
+
+Flight 110 departs SAN at 9:30 on 04/03/2016
+Flight arrives at LAX after 0.38 hours
+Currently 0 of 15 seats are taken
+
+Flight 120 departs SAN at 11:00 on 04/03/2016
+Flight arrives at LAX after 0.3 hours
+Currently 0 of 50 seats are taken
+
+-----------------------------------------------------------
+Searching flight list for flights
+Departing SAN for MDW on 04/03/2016
+
+No flight matches those criteria
+-----------------------------------------------------------
+Adding passenger AD7654 to flight number 100
+Passenger AD7654 was successfully added to Flight 100
+There are now 1 passengers on Flight 100
+-----------------------------------------------------------
+Adding passenger DF1298 to flight number 110
+Passenger DF1298 was successfully added to Flight 110
+There are now 1 passengers on Flight 110
+-----------------------------------------------------------
+Adding passenger FG7654 to flight number 100
+Passenger FG7654 was successfully added to Flight 100
+There are now 2 passengers on Flight 100
+-----------------------------------------------------------
+Adding passenger HG7656 to flight number 100
+Passenger HG7656 was successfully added to Flight 100
+There are now 3 passengers on Flight 100
+-----------------------------------------------------------
+Adding passenger AC9872 to flight number 100
+Passenger AC9872 was successfully added to Flight 100
+There are now 4 passengers on Flight 100
+-----------------------------------------------------------
+Adding passenger AD7652 to flight number 100
+Passenger AD7652 was successfully added to Flight 100
+There are now 5 passengers on Flight 100
+-----------------------------------------------------------
+Adding passenger AW2345 to flight number 100
+Passenger AW2345 was successfully added to Flight 100
+There are now 6 passengers on Flight 100
+-----------------------------------------------------------
+Adding passenger NN7655 to flight number 120
+Passenger NN7655 was successfully added to Flight 120
+There are now 1 passengers on Flight 120
+-----------------------------------------------------------
+Adding passenger HG7656 to flight number 130
+Passenger HG7656 was successfully added to Flight 130
+There are now 1 passengers on Flight 130
+-----------------------------------------------------------
+Adding passenger JH7321 to flight number 100
+Passenger JH7321 was successfully added to Flight 100
+There are now 7 passengers on Flight 100
+-----------------------------------------------------------
+Adding passenger AD7654 to flight number 100
+Duplicate passenger found on flight 100
+This passenger was not added.
+-----------------------------------------------------------
+Adding passenger BH7676 to flight number 100
+Passenger BH7676 was successfully added to Flight 100
+There are now 8 passengers on Flight 100
+-----------------------------------------------------------
+Adding passenger BH5454 to flight number 100
+Passenger BH5454 was successfully added to Flight 100
+There are now 9 passengers on Flight 100
+-----------------------------------------------------------
+Adding passenger FG7654 to flight number 100
+Duplicate passenger found on flight 100
+This passenger was not added.
+-----------------------------------------------------------
+Adding passenger DF6987 to flight number 100
+Passenger DF6987 was successfully added to Flight 100
+There are now 10 passengers on Flight 100
+-----------------------------------------------------------
+Adding passenger FP0098 to flight number 100
+Flight 100 is already full
+Please select a different flight from this list
+
+Searching flight list for flights
+Departing SAN for LAX on 04/03/2016
+
+Flight 100 departs SAN at 8:30 on 04/03/2016
+Flight arrives at LAX after 0.35 hours
+Currently 10 of 10 seats are taken
+
+Flight 110 departs SAN at 9:30 on 04/03/2016
+Flight arrives at LAX after 0.38 hours
+Currently 1 of 15 seats are taken
+
+Flight 120 departs SAN at 11:00 on 04/03/2016
+Flight arrives at LAX after 0.3 hours
+Currently 1 of 50 seats are taken
+
+-----------------------------------------------------------
+Adding passenger FP0098 to flight number 120
+Passenger FP0098 was successfully added to Flight 120
+There are now 2 passengers on Flight 120
+-----------------------------------------------------------
+Adding passenger FP3067 to flight number 100
+Flight 100 is already full
+Please select a different flight from this list
+
+Searching flight list for flights
+Departing SAN for LAX on 04/03/2016
+
+Flight 100 departs SAN at 8:30 on 04/03/2016
+Flight arrives at LAX after 0.35 hours
+Currently 10 of 10 seats are taken
+
+Flight 110 departs SAN at 9:30 on 04/03/2016
+Flight arrives at LAX after 0.38 hours
+Currently 1 of 15 seats are taken
+
+Flight 120 departs SAN at 11:00 on 04/03/2016
+Flight arrives at LAX after 0.3 hours
+Currently 2 of 50 seats are taken
+
+-----------------------------------------------------------
+Adding passenger FP3067 to flight number 150
+Flight number 150 was not found
+This passenger was not added.
+-----------------------------------------------------------
+Removing BH7676 from flight number 100
+Passenger BH7676 was successfully removed from flight 100
+There are now 9 passengers on Flight 100
+-----------------------------------------------------------
+Removing FP3067 from flight number 100
+Passenger FP3067 was not found on flight 100
+-----------------------------------------------------------
+Removing FG7654 from flight number 150
+Flight number 150 was not found
+This passenger could not be removed.
+-----------------------------------------------------------
+Adding passenger FP0098 to flight number 100
+Passenger FP0098 was successfully added to Flight 100
+There are now 10 passengers on Flight 100
+-----------------------------------------------------------
+Adding passenger FP3067 to flight number 100
+Flight 100 is already full
+Please select a different flight from this list
+
+Searching flight list for flights
+Departing SAN for LAX on 04/03/2016
+
+Flight 100 departs SAN at 8:30 on 04/03/2016
+Flight arrives at LAX after 0.35 hours
+Currently 10 of 10 seats are taken
+
+Flight 110 departs SAN at 9:30 on 04/03/2016
+Flight arrives at LAX after 0.38 hours
+Currently 1 of 15 seats are taken
+
+Flight 120 departs SAN at 11:00 on 04/03/2016
+Flight arrives at LAX after 0.3 hours
+Currently 2 of 50 seats are taken
+
+-----------------------------------------------------------
+Printing Flight information for Flight Number 100
+
+Flight 100 departs SAN at 8:30 on 04/03/2016
+Flight arrives at LAX after 0.35 hours
+Currently 10 of 10 seats are taken
+
+-----------------------------------------------------------
+Printing passenger information for Flight 100
+AD7654
+FG7654
+HG7656
+AC9872
+AD7652
+AW2345
+JH7321
+BH5454
+DF6987
+FP0098
+-----------------------------------------------------------
+Printing Flight information for Flight Number 110
+
+Flight 110 departs SAN at 9:30 on 04/03/2016
+Flight arrives at LAX after 0.38 hours
+Currently 1 of 15 seats are taken
+
+-----------------------------------------------------------
+Printing passenger information for Flight 110
+DF1298
+-----------------------------------------------------------
+Printing Flight information for Flight Number 150
+
+No matching flight found for Flight Number 150
+-----------------------------------------------------------
+IsFlightFull for flight 100 returns true
+-----------------------------------------------------------
+IsFlightFull for flight 130 returns false
+-----------------------------------------------------------
+Checking flight number 100 for passengers needing 
+wheelchair assistance
+
+First name: Bob
+Last name:  Haynes
+Age:        59
+Gender:     M
+ID:         AC9872
+Assistance: wheelchair
+Meal type:  vegetarian
+
+First name: Suzy
+Last name:  Walter
+Age:        65
+Gender:     F
+ID:         FP3067
+Assistance: wheelchair
+Meal type:  none
+
+First name: Paul
+Last name:  Didier
+Age:        72
+Gender:     M
+ID:         HG7656
+Assistance: wheelchair
+Meal type:  fish
+
+First name: Julia
+Last name:  Pompano
+Age:        77
+Gender:     F
+ID:         DF6987
+Assistance: wheelchair
+Meal type:  vegetarian
+
+First name: Michel
+Last name:  Etheredge
+Age:        72
+Gender:     M
+ID:         GH6543
+Assistance: wheelchair
+Meal type:  none
+
+-----------------------------------------------------------
+Checking flight number 100 for passengers needing 
+vegetarian assistance
+
+-----------------------------------------------------------

@@ -14,17 +14,17 @@ This entry was successfully added to the directory
 -----------------------------------------------------------
 Printing Current Directory:
 
-Joe Garcia 858-343-2009
-Amelia Perez 617-255-0987
-Bob Haynes 858-765-1122
-Tim Ducrest 760-877-1654     
-Kevin Garcia 760-543-5622
-Suzy Walter 858-190-2307
-Fang Yi 619-677-1212
-Robert James 619-909-3476    
-Mary Palmer 760-435-2086
-Mayssaa Sarkis 885-565-4567
-Julia Adams 456-343-2087
+Joe       Garcia    858-343-2009
+Amelia    Perez     617-255-0987
+Bob       Haynes    858-765-1122
+Tim       Ducrest   760-877-1654
+Kevin     Garcia    760-543-5622
+Suzy      Walter    858-190-2307
+Fang      Yi        619-677-1212
+Robert    James     619-909-3476
+Mary      Palmer    760-435-2086
+Mayssaa   Sarkis    885-565-4567
+Julia     Adams     456-343-2087
 -----------------------------------------------------------
 Updating phone number 456-343-2087
 You have successfully updated the phone number 456-343-2087
@@ -63,18 +63,18 @@ Directory successfully sorted
 -----------------------------------------------------------
 Printing Current Directory:
 
-Julia Adams 456-189-6554
-Tim Ducrest 760-877-1654     
-Joe Garcia 858-343-2009
-Kevin Garcia 760-543-5622
-Bob Haynes 858-765-1122
-Robert James 619-909-3476    
-Dennis Lefleurt 334-543-8769
-Mary Palmer 760-435-2086
-Amelia Perez 617-255-0987
-Mayssaa Sarkis 885-565-4567
-Suzy Walter 858-190-2307
-Fang Yi 619-677-1212
+Julia     Adams     456-189-6554
+Tim       Ducrest   760-877-1654
+Joe       Garcia    858-343-2009
+Kevin     Garcia    760-543-5622
+Bob       Haynes    858-765-1122
+Robert    James     619-909-3476
+Dennis    Lefleurt  334-543-8769
+Mary      Palmer    760-435-2086
+Amelia    Perez     617-255-0987
+Mayssaa   Sarkis    885-565-4567
+Suzy      Walter    858-190-2307
+Fang      Yi        619-677-1212
 -----------------------------------------------------------
 Data successfully stored in phonesOut.txt
 -----------------------------------------------------------
